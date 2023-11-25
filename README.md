@@ -1,2 +1,2 @@
 # United
-It's a simple Hello World program written in Java programming language.
+It's a simple program with operations in swift programming language.
